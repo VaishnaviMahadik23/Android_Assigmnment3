@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="string1">Hello, World!</string>
+    <string name="string2">Welcome to MainActivity</string>
+    <string name="string3">Learning Android Development</string>
+    <string name="string4">Passing Data via Intent</string>
+    <string name="string5">Enjoy Your Journey!</string>
+
+</resources>
